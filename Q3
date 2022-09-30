@@ -1,0 +1,6 @@
+/*
+Books: Authors = N : 1
+Books: Orders = 1 : N
+Orders : Stores = N : 1
+Books : Stores = N : N
+*/

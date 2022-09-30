@@ -1,0 +1,38 @@
+/*
+Books
+  Book_ID
+  Book_name
+  Author_ID
+  Editor
+  Publisher
+  Genre
+  Date_published
+  Author_royalities
+  ISBN
+
+Authors
+  Author_ID
+  Author_name
+  Number_of_books
+  Author_genre
+
+Orders
+  Customer_ID
+  Book_ID
+  Store_ID
+  Sales_date
+  Sales_amount
+
+ Stores
+  Store_ID
+  Store_name
+  Location
+  Sales_2021
+  Sales_2020
+
+ Books_Stores
+  Book_ID (row indicator)
+  Store_ID_1
+  Store_ID_2
+  ...
+*/
