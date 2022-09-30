@@ -35,6 +35,7 @@ CREATE TABLE `Authors` (
 -- --------------------------------------
 
 CREATE TABLE `Orders` (
+	`Order_ID` 			int NOT NULL,
 	`Customer_ID` 		int NOT NULL,
     `Book_ID` 			int NOT NULL,
     `Store_ID` 			int NOT NULL,

@@ -25,14 +25,14 @@ INSERT INTO `Authors` VALUES(4,'Rik',2,'Adventure');
 --  TABLE Orders
 -- --------------------------------------
 
-INSERT INTO `Orders` VALUES(1,1,1,'2017-01-01',20);
-INSERT INTO `Orders` VALUES(2,4,2,'2017-01-02',20);
-INSERT INTO `Orders` VALUES(3,5,1,'2017-01-03',30);
-INSERT INTO `Orders` VALUES(4,2,1,'2017-01-04',20);
-INSERT INTO `Orders` VALUES(5,1,2,'2017-01-05',20);
-INSERT INTO `Orders` VALUES(6,5,2,'2017-01-06',30);
-INSERT INTO `Orders` VALUES(7,5,1,'2017-01-07',30);
-INSERT INTO `Orders` VALUES(8,6,1,'2017-01-08',30);
+INSERT INTO `Orders` VALUES(1,1,1,1,'2017-01-01',20);
+INSERT INTO `Orders` VALUES(2,2,4,2,'2017-01-02',20);
+INSERT INTO `Orders` VALUES(3,3,5,1,'2017-01-03',30);
+INSERT INTO `Orders` VALUES(4,4,2,1,'2017-01-04',20);
+INSERT INTO `Orders` VALUES(5,5,1,2,'2017-01-05',20);
+INSERT INTO `Orders` VALUES(6,6,5,2,'2017-01-06',30);
+INSERT INTO `Orders` VALUES(7,7,5,1,'2017-01-07',30);
+INSERT INTO `Orders` VALUES(8,8,6,1,'2017-01-08',30);
 
 -- --------------------------------------
 --  TABLE Stores
